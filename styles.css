@@ -1,0 +1,11 @@
+h1 {
+    color:#1b1b1b;
+    font-family: "Inter", "Ariel", "Times New Roman";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.recipe-image {
+    height: auto;
+    width: 400px;
+}
