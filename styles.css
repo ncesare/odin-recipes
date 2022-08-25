@@ -18,3 +18,20 @@ h1 {
     width: 200px;
     padding: 4pt;
 }
+
+.ingredients {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.steps {
+    background-color: #1b1b1b;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 1ch;
+}
+
+#one {
+    font-weight: bolder;
+    font-stretch: expanded;
+}
