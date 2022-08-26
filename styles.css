@@ -11,23 +11,35 @@ h1 {
     width: 400px;
 }
 
-.link-panel {
-    background-color: aliceblue;
-    border: #1b1b1b;
-    height: 100px;
+.nav-links {
+    list-style-type: square;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.home-nav1, .home-nav2 {
+    padding: 5px;
     width: 200px;
-    padding: 4pt;
+    font-size: 22pt;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.home-nav1 {
+    background-color: lightyellow;
+}
+
+.home-nav2{
+    background-color: lightblue;
 }
 
 .ingredients {
     background-color: aliceblue;
-    text-align: center;
 }
 
 .steps {
     background-color: #1b1b1b;
     color: whitesmoke;
-    text-align: center;
     text-shadow: 1ch;
 }
 
